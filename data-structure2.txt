@@ -1,0 +1,30 @@
+{'longitude': <class 'netCDF4._netCDF4.Variable'>
+float32 longitude(longitude)
+    units: degrees_east
+    long_name: longitude
+unlimited dimensions: 
+current shape = (1440,)
+filling on, default _FillValue of 9.969209968386869e+36 used, 'latitude': <class 'netCDF4._netCDF4.Variable'>
+float32 latitude(latitude)
+    units: degrees_north
+    long_name: latitude
+unlimited dimensions: 
+current shape = (721,)
+filling on, default _FillValue of 9.969209968386869e+36 used, 'time': <class 'netCDF4._netCDF4.Variable'>
+int32 time(time)
+    units: hours since 1900-01-01 00:00:00.0
+    long_name: time
+    calendar: gregorian
+unlimited dimensions: 
+current shape = (912,)
+filling on, default _FillValue of -2147483647 used, 'si10': <class 'netCDF4._netCDF4.Variable'>
+int16 si10(time, latitude, longitude)
+    scale_factor: 0.0003120164276888396
+    add_offset: 10.552331245928917
+    _FillValue: -32767
+    missing_value: -32767
+    units: m s**-1
+    long_name: 10 metre wind speed
+unlimited dimensions: 
+current shape = (912, 721, 1440)
+filling on}
