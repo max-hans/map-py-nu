@@ -3,6 +3,7 @@
 /maps
 /dummy_data
 /map-env
+/parsed
 
 .DS_Store
 # Byte-compiled / optimized / DLL files
