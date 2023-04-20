@@ -1,7 +1,14 @@
 /output
-/windspeed
+/windspeeds
 /maps
 /dummy_data
+/map-env
+/parsed
+/windspeed
+
+*.jpg
+*.mp4
+*.nc
 
 *.jpg
 *.mp4
