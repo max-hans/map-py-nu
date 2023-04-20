@@ -2,6 +2,8 @@
 /windspeed
 /maps
 /dummy_data
+*.jpg
+*.mp4
 
 .DS_Store
 # Byte-compiled / optimized / DLL files
