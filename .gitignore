@@ -2,10 +2,13 @@
 /windspeeds
 /maps
 /dummy_data
-*.jpg
-*.mp4
 /map-env
 /parsed
+/windspeed
+
+*.jpg
+*.mp4
+*.nc
 
 .DS_Store
 # Byte-compiled / optimized / DLL files
