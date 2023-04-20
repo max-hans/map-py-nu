@@ -1,9 +1,11 @@
 /output
-/windspeed
+/windspeeds
 /maps
 /dummy_data
 *.jpg
 *.mp4
+/map-env
+/parsed
 
 .DS_Store
 # Byte-compiled / optimized / DLL files
