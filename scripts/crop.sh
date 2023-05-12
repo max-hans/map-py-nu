@@ -1,8 +1,10 @@
 #!/bin/bash
 
 # Set the path to the folder containing the images
-input_folder="./input-all"
-output_folder="./output/crop-all"
+input_folder="./output/20230419_230303"
+output_folder="./output/230419-crop-all"
+
+
 # Set the coordinates and dimensions of the rectangle
 x=0
 y=480
